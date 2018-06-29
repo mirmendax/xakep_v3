@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<events>
+	<outs>
+		<files>
+			<file id="event:f:f1" name="file" capacity="522" type="TXT">#TEXT#</file>
+		</files>
+		<enemies>
+			<enemy id="event:enem1" address="192.168.1.2">
+				<position x="0,4" y="0,13" />
+				<isscan>false</isscan>
+				<isvisible>true</isvisible>
+				<money>0</money>
+				<services>
+					<service id="enem1:serv1">
+					<name>IP's refato.com</name>
+					<type>FTP</type>
+					<pass>12345678</pass>
+					<port>911</port>
+					<ishackpass>false</ishackpass>
+					<timestart>15</timestart>
+					<files>
+						<file id="event:enem1:serv1:file1" name="IPlist.log" capacity="23" type="TXT"></file>
+					</files>
+					</service>
+				</services>
+			</enemy>
+		</enemies>
+		<mails>
+      <mail id="e:m:m1" name="boss@refato.com">У нас в офисе появилась "крыса". Кто-то из наших слил AlMega про наши, точнее про твои действия. Необходимо найти его как можно скорее.
+Но нужно действовать тихо, иначе он удалит все данные и мы его упустим. Проверь каждого сотрудника и найди сукиного сына!!!
+Я хотел бы сказать чтобы СисАдмин дал тебе все права, но он тоже может быть под подозрением!!! Действуй!!!</mail>
+		</mails>
+		<wanteds>
+			<wanted id="e:w:w1">120</wanted>
+		</wanteds>
+	</outs>
+	<ev>
+		<event id="event1">
+			<in type="Time">
+				<time>1</time>
+				<enemy></enemy>
+				<file></file>
+				<wanted></wanted>
+				<service></service>
+			</in>
+			<out id="e:m:m1" />
+		</event>
+	</ev>
+</events>

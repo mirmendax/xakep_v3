@@ -1,0 +1,86 @@
+c:\users\администратор\documents\visual studio 2013\Projects\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\bin\Debug\libgame.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\bin\Debug\libgame.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\bin\Debug\ActiproSoftware.Shared.Net20.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\Xakep_v3\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+E:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe.config
+E:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.exe
+E:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.pdb
+E:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe
+E:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.pdb
+E:\Xakep_v3\Xakep_v3\bin\Debug\libgame.dll
+E:\Xakep_v3\Xakep_v3\bin\Debug\libgame.pdb
+E:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csprojResolveAssemblyReference.cache
+E:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.Properties.Resources.resources
+E:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csproj.GenerateResource.Cache
+I:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe.config
+I:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.exe
+I:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.pdb
+I:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csprojResolveAssemblyReference.cache
+I:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.Properties.Resources.resources
+I:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csproj.GenerateResource.Cache
+I:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe
+I:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.pdb
+I:\Xakep_v3\Xakep_v3\bin\Debug\libgame.dll
+I:\Xakep_v3\Xakep_v3\bin\Debug\libgame.pdb
+E:\Xakep_v3\Xakep_v3\bin\Debug\LuaInterface.dll
+I:\Xakep_v3\Xakep_v3\bin\Debug\LuaInterface.dll
+E:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.GameMain.resources
+I:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.GameMain.resources
+D:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe.config
+D:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.exe
+D:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.pdb
+D:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe
+D:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.pdb
+D:\Xakep_v3\Xakep_v3\bin\Debug\libgame.dll
+D:\Xakep_v3\Xakep_v3\bin\Debug\LuaInterface.dll
+D:\Xakep_v3\Xakep_v3\bin\Debug\libgame.pdb
+D:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csprojResolveAssemblyReference.cache
+D:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.GameMain.resources
+D:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.Properties.Resources.resources
+D:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csproj.GenerateResource.Cache
+J:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe.config
+J:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.exe
+J:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.pdb
+J:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe
+J:\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.pdb
+J:\Xakep_v3\Xakep_v3\bin\Debug\libgame.dll
+J:\Xakep_v3\Xakep_v3\bin\Debug\LuaInterface.dll
+J:\Xakep_v3\Xakep_v3\bin\Debug\libgame.pdb
+J:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csprojResolveAssemblyReference.cache
+J:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.GameMain.resources
+J:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.Properties.Resources.resources
+J:\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csproj.GenerateResource.Cache
+F:\F8Gb\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe.config
+F:\F8Gb\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.exe
+F:\F8Gb\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.pdb
+F:\F8Gb\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe
+F:\F8Gb\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.pdb
+F:\F8Gb\Xakep_v3\Xakep_v3\bin\Debug\libgame.dll
+F:\F8Gb\Xakep_v3\Xakep_v3\bin\Debug\LuaInterface.dll
+F:\F8Gb\Xakep_v3\Xakep_v3\bin\Debug\libgame.pdb
+F:\F8Gb\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csprojResolveAssemblyReference.cache
+F:\F8Gb\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.GameMain.resources
+F:\F8Gb\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.Properties.Resources.resources
+F:\F8Gb\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csproj.GenerateResource.Cache
+E:\1\project\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe.config
+E:\1\project\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.exe
+E:\1\project\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.pdb
+E:\1\project\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.exe
+E:\1\project\Xakep_v3\Xakep_v3\bin\Debug\Xakep_v3.pdb
+E:\1\project\Xakep_v3\Xakep_v3\bin\Debug\libgame.dll
+E:\1\project\Xakep_v3\Xakep_v3\bin\Debug\LuaInterface.dll
+E:\1\project\Xakep_v3\Xakep_v3\bin\Debug\libgame.pdb
+E:\1\project\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csprojResolveAssemblyReference.cache
+E:\1\project\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.GameMain.resources
+E:\1\project\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.Properties.Resources.resources
+E:\1\project\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csproj.GenerateResource.Cache
+E:\1\project\Xakep_v3\Xakep_v3\obj\Debug\Xakep_v3.csproj.CoreCompileInputs.cache

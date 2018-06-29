@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<player>
+	<level>3</level>
+	<namelevel>Предательство</namelevel>
+	<name>IT Андрей</name>
+	</money>150</money>
+	<wanted>15</wanted>
+	<position x="0,7" y="0,7" />
+	<history>И так... Кажется AlMega заметила что украли разработки... Так что полиция уже разыскиевает меня... нужно быть осторожнее...</history>
+</player>

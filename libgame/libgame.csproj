@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8ED78C4C-863F-41AD-923F-3DE40A3E2B69}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>libgame</RootNamespace>
+    <AssemblyName>libgame</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LuaInterface">
+      <HintPath>..\Xakep_v3\LuaInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Element\BForceElement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Element\BForceElement.Designer.cs">
+      <DependentUpon>BForceElement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Constance.cs" />
+    <Compile Include="Element\ECIPortElement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Element\ECIPortElement.Designer.cs">
+      <DependentUpon>ECIPortElement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Element\PlayerFiles.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Element\PlayerFiles.Designer.cs">
+      <DependentUpon>PlayerFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Element\WindowPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Element\WindowPanel.Designer.cs">
+      <DependentUpon>WindowPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnemyComp.cs" />
+    <Compile Include="Element\EnemyCompElement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Element\EnemyCompElement.Designer.cs">
+      <DependentUpon>EnemyCompElement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Element\EnemyCompInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Element\EnemyCompInterface.Designer.cs">
+      <DependentUpon>EnemyCompInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EventGameX.cs" />
+    <Compile Include="FileX.cs" />
+    <Compile Include="GameScript.cs" />
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="IInterface.cs" />
+    <Compile Include="LoadLua.cs" />
+    <Compile Include="MailX.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Comp.cs" />
+    <Compile Include="ListComp.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RePoint.cs" />
+    <Compile Include="ServiceX.cs" />
+    <Compile Include="XMLScenario.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Element\BForceElement.resx">
+      <DependentUpon>BForceElement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Element\ECIPortElement.resx">
+      <DependentUpon>ECIPortElement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Element\EnemyCompElement.resx">
+      <DependentUpon>EnemyCompElement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Element\EnemyCompInterface.resx">
+      <DependentUpon>EnemyCompInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Element\PlayerFiles.resx">
+      <DependentUpon>PlayerFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Element\WindowPanel.resx">
+      <DependentUpon>WindowPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

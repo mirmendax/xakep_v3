@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quests>
+	<quest id="quest1" type="File">
+		<name>Найти "Крысу"</name>
+		<money></money>
+		<about>Надите сотрудника который сливает данные.</about>
+		<file>enem1:serv1:file1</file>
+		<enemy></enemy>
+		<wanted></wanted>
+	</quest>
+		<quest id="quest2" type="Scaning">
+		
+		<name>Деньги!!!</name>
+		<money></money>
+		<about>Получите 1000.
+И всё!</about>
+		<file></file>
+		<enemy>enem1</enemy>
+		<wanted></wanted>
+	</quest>
+</quests>
+

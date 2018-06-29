@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quests>
+	<quest id="quest 1" >
+		<type></type>
+		<name></name>
+		<money></money>
+		<about></about>
+		<file></file>
+		<enemy></enemy>
+		<wanted></wanted>
+	</quest>
+</quests>
+<enemies>
+	<enemy id="enem1" address="">
+		<position x="" y="" />
+		<is scan="" visible="" />
+		<money></money>
+		<services>
+			<service id="enem1:serv1">
+				<name></name>
+				<type></type>
+				<pass></pass>
+				<port></port>
+				<ishackpass></ishackpass>
+				<timestart></timestart>
+				<files>
+					<file id="enem1:serv1:file1" name="" capacity="">
+					#TEXT#
+					</file>
+				</files>
+			</service>
+		</services>
+	</enemy>
+</enemies>
+<events>
+	<out>
+		<files>
+			<file id="event:f:f1" name="" capacity="">
+			</file>
+		</files>
+		<enemies>
+			<enemy id="event:e:e1" address="">
+			</enemy>
+		</enemies>
+		<mails>
+			<mail id="e:m:m1">
+			</mail>
+		</mails>
+		<wanteds>
+			<wanted id="e:w:w1">
+			</wanted>
+		</wanteds>
+	</out>
+	<event id="">
+		<in type="">
+		</in>
+		
+		<out type="" id="" />
+		
+	</event>
+</events>

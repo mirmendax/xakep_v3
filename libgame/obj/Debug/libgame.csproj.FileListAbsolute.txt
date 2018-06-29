@@ -1,0 +1,81 @@
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\libgame\bin\Debug\libgame.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\libgame\bin\Debug\libgame.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\libgame\obj\Debug\libgame.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\libgame\obj\Debug\libgame.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\libgame\obj\Debug\Xakep_v3.EnemyCompElement.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Xakep_v3\libgame\obj\Debug\libgame.csproj.GenerateResource.Cache
+C:\Users\Администратор\documents\visual studio 2013\Projects\Xakep_v3\libgame\obj\Debug\libgame.BForceElement.resources
+E:\Xakep_v3\libgame\bin\Debug\libgame.dll
+E:\Xakep_v3\libgame\bin\Debug\libgame.pdb
+E:\Xakep_v3\libgame\obj\Debug\libgame.BForceElement.resources
+E:\Xakep_v3\libgame\obj\Debug\Xakep_v3.EnemyCompElement.resources
+E:\Xakep_v3\libgame\obj\Debug\libgame.csproj.GenerateResource.Cache
+E:\Xakep_v3\libgame\obj\Debug\libgame.dll
+E:\Xakep_v3\libgame\obj\Debug\libgame.pdb
+E:\Xakep_v3\libgame\obj\Debug\libgame.EnemyCompInterface.resources
+I:\Xakep_v3\libgame\bin\Debug\libgame.dll
+I:\Xakep_v3\libgame\bin\Debug\libgame.pdb
+I:\Xakep_v3\libgame\obj\Debug\libgame.csprojResolveAssemblyReference.cache
+I:\Xakep_v3\libgame\obj\Debug\libgame.BForceElement.resources
+I:\Xakep_v3\libgame\obj\Debug\libgame.Element.ECIPortElement.resources
+I:\Xakep_v3\libgame\obj\Debug\Xakep_v3.EnemyCompElement.resources
+I:\Xakep_v3\libgame\obj\Debug\libgame.EnemyCompInterface.resources
+I:\Xakep_v3\libgame\obj\Debug\libgame.csproj.GenerateResource.Cache
+I:\Xakep_v3\libgame\obj\Debug\libgame.dll
+I:\Xakep_v3\libgame\obj\Debug\libgame.pdb
+E:\Xakep_v3\libgame\obj\Debug\libgame.Element.ECIPortElement.resources
+E:\Xakep_v3\libgame\bin\Debug\LuaInterface.dll
+I:\Xakep_v3\libgame\bin\Debug\LuaInterface.dll
+E:\Xakep_v3\libgame\obj\Debug\libgame.csprojResolveAssemblyReference.cache
+D:\Xakep_v3\libgame\bin\Debug\libgame.dll
+D:\Xakep_v3\libgame\bin\Debug\libgame.pdb
+D:\Xakep_v3\libgame\bin\Debug\LuaInterface.dll
+D:\Xakep_v3\libgame\obj\Debug\libgame.csprojResolveAssemblyReference.cache
+D:\Xakep_v3\libgame\obj\Debug\libgame.BForceElement.resources
+D:\Xakep_v3\libgame\obj\Debug\libgame.Element.ECIPortElement.resources
+D:\Xakep_v3\libgame\obj\Debug\Xakep_v3.EnemyCompElement.resources
+D:\Xakep_v3\libgame\obj\Debug\libgame.EnemyCompInterface.resources
+D:\Xakep_v3\libgame\obj\Debug\libgame.csproj.GenerateResource.Cache
+D:\Xakep_v3\libgame\obj\Debug\libgame.dll
+D:\Xakep_v3\libgame\obj\Debug\libgame.pdb
+J:\Xakep_v3\libgame\bin\Debug\libgame.dll
+J:\Xakep_v3\libgame\bin\Debug\libgame.pdb
+J:\Xakep_v3\libgame\bin\Debug\LuaInterface.dll
+J:\Xakep_v3\libgame\obj\Debug\libgame.BForceElement.resources
+J:\Xakep_v3\libgame\obj\Debug\libgame.Element.ECIPortElement.resources
+J:\Xakep_v3\libgame\obj\Debug\Xakep_v3.EnemyCompElement.resources
+J:\Xakep_v3\libgame\obj\Debug\libgame.EnemyCompInterface.resources
+J:\Xakep_v3\libgame\obj\Debug\libgame.csproj.GenerateResource.Cache
+J:\Xakep_v3\libgame\obj\Debug\libgame.dll
+J:\Xakep_v3\libgame\obj\Debug\libgame.pdb
+J:\Xakep_v3\libgame\obj\Debug\libgame.csprojResolveAssemblyReference.cache
+F:\F8Gb\Xakep_v3\libgame\bin\Debug\libgame.dll
+F:\F8Gb\Xakep_v3\libgame\bin\Debug\libgame.pdb
+F:\F8Gb\Xakep_v3\libgame\bin\Debug\LuaInterface.dll
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.csprojResolveAssemblyReference.cache
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.BForceElement.resources
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.Element.ECIPortElement.resources
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\Xakep_v3.EnemyCompElement.resources
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.EnemyCompInterface.resources
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.csproj.GenerateResource.Cache
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.dll
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.pdb
+J:\Xakep_v3\libgame\obj\Debug\libgame.Element.WindowPanel.resources
+J:\Xakep_v3\libgame\obj\Debug\libgame.Properties.Resources.resources
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.Element.WindowPanel.resources
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.Properties.Resources.resources
+F:\F8Gb\Xakep_v3\libgame\obj\Debug\libgame.Element.PlayerFiles.resources
+E:\1\project\Xakep_v3\libgame\bin\Debug\libgame.dll
+E:\1\project\Xakep_v3\libgame\bin\Debug\libgame.pdb
+E:\1\project\Xakep_v3\libgame\bin\Debug\LuaInterface.dll
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.BForceElement.resources
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.Element.ECIPortElement.resources
+E:\1\project\Xakep_v3\libgame\obj\Debug\Xakep_v3.EnemyCompElement.resources
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.EnemyCompInterface.resources
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.Element.PlayerFiles.resources
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.Element.WindowPanel.resources
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.Properties.Resources.resources
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.csproj.GenerateResource.Cache
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.dll
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.pdb
+E:\1\project\Xakep_v3\libgame\obj\Debug\libgame.csproj.CoreCompileInputs.cache

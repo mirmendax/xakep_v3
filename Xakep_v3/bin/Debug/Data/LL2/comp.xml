@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enemies>
+	<enemy id="enem1" address="boss-5.124">
+		<position x="0,2" y="0,3" />
+		<isscan>false</isscan>
+		<isvisible>false</isvisible>
+		<money>1500</money>
+		<services>
+			<service id="enem1:serv1">
+				<name>Мои Документы</name>
+				<type>FTP</type>
+				<pass>3345</pass>
+				<port>211</port>
+				<ishackpass>false</ishackpass>
+				<timestart>15</timestart>
+				<files>
+					<file id="enem1:serv1:file2" name="mail2.m" capacity="213" type="TXT">
+mailto:subject=it-12.32@refato.com:body=У нас в офисе появилась "крыса". Кто-то из наших слил AlMega про наши, точнее про твои действия. Необходимо найти его как можно скорее.
+Но нужно действовать тихо, иначе он удалит все данные и мы его упустим. Проверь каждого сотрудника и найди сукиного сына!!!
+Я хотел бы сказать чтобы СисАдмин дал тебе все права, но он тоже может быть под подозрением!!! Действуй!!!</file>
+				</files>
+			</service>
+		</services>
+	</enemy>
+	<enemy id="enem2" address="192.168.0.12">
+		<position x="0,12" y="0,23" />
+		<isscan>false</isscan>
+		<isvisible>true</isvisible>
+		<money>1500</money>
+		<services>
+			<service id="enem2:serv1">
+				<name>FTP Server</name>
+				<type>FTP</type>
+				<pass>893j</pass>
+				<port>211</port>
+				<ishackpass>false</ishackpass>
+				<timestart>15</timestart>
+				<files>
+					<file id="enem2:serv1:file1" name="file1" capacity="23" type="TXT">
+					#TEXT#
+					</file>
+				</files>
+			</service>
+		</services>
+	</enemy>
+</enemies>

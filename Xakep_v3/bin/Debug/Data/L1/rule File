@@ -1,0 +1,26 @@
+Exploit
+
+	[0]Host
+	[1]File
+	[n]other
+	
+--//Exploite of atm-0234.bank-corp.co
+name="exploit_1834" 
+version="0.1"
+port = 1834
+addr = "atm-0234.bank-corp.co"
+resulttext = ""
+isOk = false
+??????? ???????? enemy
+???????? ?????????? isOk, resulttext, enemy
+--/////////////////	
+	
+Script
+
+	[0]Host 
+	[1]File
+	[n]Other
+	
+--///// Script Add SSH Service
+name = "autorun_ssh.sh"
+version = "0.1"

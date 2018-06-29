@@ -1,0 +1,48 @@
+--//a19.srv.mega.dc-jibro-corp.cc
+name="exploit_3143"
+version="0.1"
+port = 3143
+addr = "a19.srv.mega.dc-jibro-corp.cc"
+resulttext = ""
+isOk = false
+--/////////////////
+luanet.load_assembly("libgame")
+
+--//class
+ServiceX = luanet.import_type("libgame.ServiceX")
+
+
+
+--//Code exploit
+if (enemy.Addr == addr) then
+	service = ServiceX()
+	service = enemy:PortToService(port)
+	if (service ~= nil) then
+		if (service.Port == port) then
+			enemy.Services:Remove(service)
+			isOk = true
+		else 
+			isOk = false
+			resulttext = "Эксплойт завершился с кодом: 0х34 [Не верный порт]"
+		end
+	else 
+		isOk = false
+		resulttext = "Эксплойт завершился с кодом: 0хј9 [Cервис не найден]"
+		end
+	if (isOk == true) then
+		serv = ServiceX(service.TimeStart, port)
+		serv.Type = service.Type
+		serv.Pass = service.Pass
+		serv.ListFile = service.ListFile
+		serv.isHackPass = true
+		serv.isDecrypt = true
+		serv.Crypt = service.Crypt
+		serv.Desc = service.Desc
+		enemy:AddService(serv)
+		resulttext = "Эксплойт завершился с кодом: 0хf1 ["..addr..":"..port.." защита взломана {"..serv.Pass.."}]";
+	end
+else
+	isOk = false
+	resulttext = "Эксплойт завершился с кодом: 0хD0 [Эксплойт настроен не правильно]"
+end
+--//End exploit

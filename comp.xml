@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<enemies>
+  <enemy id="srv.dc-jibro-corp.cc" address="srv.dc-jibro-corp.cc">
+    <position x="0,3" y="0,3" />
+    <isscan>false</isscan>
+    <isvisible>false</isvisible>
+    <money>0</money>
+    <services>
+      <service id="srv.dc-jibro-corp.cc:DNS">
+        <name>DNS Server Info</name>
+        <type></type>
+        <pass></pass>
+        <port></port>
+        <ishackpass></ishackpass>
+        <timestart></timestart>
+        <files>
+          <file id="" name="" capacity="" type=""></file>
+        </files>
+      </service>
+    </services>
+  </enemy>
+</enemies>
